@@ -13,9 +13,9 @@
 
 - **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://www.notion.so/1-R-d54023f08c104639a27bb24626631cb4)
   
-- **예제2. R 설치하기 !**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C2.%20%20R%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.txt)
+- **예제2. R 설치하기 !**: 📄 [노트](https://www.notion.so/2-R-aa6c4d42e40d48e89b7345c577b700e2)
 
-- **예제3. SQL 과 R 과의 차이점은 무엇인가 ?**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C3.%20%20SQL%20%EA%B3%BC%20%20R%20%EA%B3%BC%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.txt)
+- **예제3. SQL 과 R 과의 차이점은 무엇인가 ?**: 📄 [노트](https://www.notion.so/3-SQL-R-24ebbf1eb74446c08a393c746e8d307a)
 
 - **예제4. R의 자료 구조 5가지를 알아야해요!**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C4.%20%20R%EC%9D%98%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0%205%EA%B0%80%EC%A7%80.txt)
 
